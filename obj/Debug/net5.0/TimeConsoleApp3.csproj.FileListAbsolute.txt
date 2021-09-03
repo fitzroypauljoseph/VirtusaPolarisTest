@@ -1,0 +1,16 @@
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.exe
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.deps.json
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.runtimeconfig.json
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.runtimeconfig.dev.json
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.dll
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\ref\TimeConsoleApp3.dll
+C:\Users\gokal\source\repos\TimeConsoleApp3\bin\Debug\net5.0\TimeConsoleApp3.pdb
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.AssemblyInfo.cs
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.dll
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\ref\TimeConsoleApp3.dll
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.pdb
+C:\Users\gokal\source\repos\TimeConsoleApp3\obj\Debug\net5.0\TimeConsoleApp3.genruntimeconfig.cache
